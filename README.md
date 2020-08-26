@@ -2,12 +2,13 @@
 ##二级标题
 ###三级标题
 -官网"# LAGOU"  
-git init
-git status   查看建立的文件
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/
-git push -u origin master
+-git init
+-git status   查看建立的文件
+-git add README.md
+
+-git commit -m "first commit"
+-git remote add origin git@github.com:fengjiajun123/LAGOU.git
+-git push -u origin master
 
 
 Git ssh配置
